@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\code\\HelloWorld-C\u002B\u002B\\",
+  "WorkspaceRootPath": "E:\\Learn Code\\HelloWorld-C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB592233-CE32-4DD5-A509-2406F54CC4C5}|HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B.vcxproj|E:\\code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB592233-CE32-4DD5-A509-2406F54CC4C5}|HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B.vcxproj|E:\\Learn Code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB592233-CE32-4DD5-A509-2406F54CC4C5}|HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B.vcxproj|solutionrelative:HelloWorld-C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp",
+              "DocumentMoniker": "E:\\Learn Code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp",
               "RelativeDocumentMoniker": "HelloWorld-C\u002B\u002B\\main.cpp",
-              "ToolTip": "E:\\code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp",
+              "ToolTip": "E:\\Learn Code\\HelloWorld-C\u002B\u002B\\HelloWorld-C\u002B\u002B\\main.cpp",
               "RelativeToolTip": "HelloWorld-C\u002B\u002B\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-24T14:13:11.43Z",
               "EditorCaption": ""
